@@ -1,1 +1,15 @@
-{"spaghetti": 1, "pancetta": 2, "eggs": 3, "parmesan cheese": 4, "black pepper": 5, "chicken": 6, "onion": 7, "garlic": 8, "ginger": 9, "coconut milk": 10, "curry powder": 11, "turmeric": 12, "cumin": 13, "coriander": 14, "cilantro": 15}
+{
+    "potatoes": 1,
+    "eggs": 2,
+    "onions": 3,
+    "olive oil": 4,
+    "salt": 5,
+    "flour": 5,
+    "water": 6,
+    "vegetable oil": 9,
+    "sugar": 10,
+    "dark chocolate": 11,
+    "milk": 12,
+    "cornstarch": 13,
+    "cinnamon": 14
+}
